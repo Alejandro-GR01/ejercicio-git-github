@@ -5,3 +5,5 @@
 - Suerman
 - Mujer Maravilla
 - Robin
+- Aquaman
+- Mujer Maravilla
