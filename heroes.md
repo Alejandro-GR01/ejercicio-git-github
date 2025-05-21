@@ -1,3 +1,7 @@
 ## Heroes
 
-\*Linterna Verde
+- Linterna Verde
+- Batman
+- Suerman
+- Mujer Maravilla
+- Robin
