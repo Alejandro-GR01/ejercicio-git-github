@@ -1,5 +1,3 @@
-## REadme
-
-# Notas
+# objetivos
 
 kjzbdjfbshfsjdb
