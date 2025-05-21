@@ -2,3 +2,4 @@
 
 1. Lex Luthgor
 2. Joker
+3. Flash Reverso
