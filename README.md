@@ -1,4 +1,4 @@
-# objetivos
+# objetivos de repo principal
 
 kjzbdjfbshfsjdb
 
