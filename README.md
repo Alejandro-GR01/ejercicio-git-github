@@ -1,4 +1,4 @@
-# objetivos de repo principal
+# Objetivo y notas
 
 kjzbdjfbshfsjdb
 
