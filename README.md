@@ -7,3 +7,5 @@ Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laboriosam, temporibus
 Esto es nuevo para un nuevo comit
 
 ### Esto son cambios nuevos desde Github
+
+### Esto son cambios nuevos desde mi repositorio Local
